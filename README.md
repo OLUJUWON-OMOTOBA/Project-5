@@ -24,3 +24,4 @@ The "[Car Sales Analytics](https://github.com/OLUJUWON-OMOTOBA/Project-5/blob/ma
    - 
 9. **Forecasting and Predictive Analytics:**
    - Utilizing machine learning models to predict future sales trends based on historical data.
+![Screenshot 2023-11-07 082231](https://github.com/OLUJUWON-OMOTOBA/Project-5/assets/134015058/73ee28f9-02f0-4ea0-a71d-d602984e0842)
